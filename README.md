@@ -16,17 +16,20 @@
 </div>
 
 The Uploader API powers the [Uploader Interface](https://github.com/hotosm/oam-uploader) by issuing authentication tokens and receiving imagery uploads. Before proceeding, we suggest you read the ecosystem docs.
+(上傳器 API通過頒發身份驗證令牌和接收圖像上傳來為[上傳器界面](https://github.com/hotosm/oam-uploader)提供支持。在繼續之前，我們建議您閱讀 ecosystem docs。)
 
-## Installation and Usage
+## Installation and Usage(安裝與使用)
 
 The steps below will walk you through setting up your own instance of the oam-uploader-api.
+(下面的步驟將引導您設置您自己的 oam-uploader-api 實例。)
 
-### Install Project Dependencies
+### Install Project Dependencies(安裝依賴項目)
 
 - [MongoDB](https://www.mongodb.org/)
 - [Node.js](https://nodejs.org/) v0.12
 
 Using [homebrew](http://brew.sh/), you can install MongoDB and other dependencies:
+(使用 [homebrew](http://brew.sh/)，您可以安裝 MongoDB 和其他依賴項目：)
 
     $ brew bundle
 
@@ -44,8 +47,9 @@ Install Node modules:
 npm install
 ```
 
-### Usage
+### Usage(用法)
 You need to set environment variables before starting the API. We suggest you copy `local.sample.env` to `local.env` and modify it. Before starting the API you can run `source local.env` to export the environment variables to the shell.
+(您需要在啟動 API 之前設置環境變量。我們建議您複製local.sample.env並local.env修改它。在啟動 API 之前，您可以運行source local.env以將環境變量導出到 shell。)
 
 #### Environment Variables
 
