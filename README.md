@@ -81,11 +81,19 @@ For a quick local setup for development the following variables can be omitted: 
 mongod
 ```
 
+![image](https://user-images.githubusercontent.com/117743957/204726066-4c0e1b31-73aa-4f03-a5cf-f495c8d6e3e5.png)
+![image](https://user-images.githubusercontent.com/117743957/204726242-5c41cef9-fe5d-49fa-9eda-2c3dd593f6ec.png)
+![image](https://user-images.githubusercontent.com/117743957/204726293-8374597d-c9e6-4fc3-b367-84d15b76c429.png)
+
+
 #### Starting the API:
 
 ```
 npm start
 ```
+![image](https://user-images.githubusercontent.com/117743957/204726396-dc5a7e93-0d4b-4d3a-92d1-1c63ca82f245.png)
+![image](https://user-images.githubusercontent.com/117743957/204726452-1b8b0422-018a-4e47-ad4f-13117c0b8bff.png)
+
 
 The API exposes endpoints used to access information form the system via a RESTful interface.
 
