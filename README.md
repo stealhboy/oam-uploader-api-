@@ -25,7 +25,7 @@ The steps below will walk you through setting up your own instance of the oam-up
 
 ### Install Project Dependencies(安裝依賴項目)
 
-- [MongoDB](https://www.mongodb.org/)
+- [MongoDB](https://www.mongodb.org/)(安裝mongodb在ubuntu22.04(https://wiki.crowncloud.net/?How_to_Install_Latest_MongoDB_on_Ubuntu_22_04))
 - [Node.js](https://nodejs.org/) v0.12
 
 Using [homebrew](http://brew.sh/), you can install MongoDB and other dependencies:
