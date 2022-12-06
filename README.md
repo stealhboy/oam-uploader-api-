@@ -28,6 +28,22 @@ The steps below will walk you through setting up your own instance of the oam-up
 - [MongoDB](https://www.mongodb.org/)(安裝mongodb在ubuntu22.04(https://wiki.crowncloud.net/?How_to_Install_Latest_MongoDB_on_Ubuntu_22_04))
 - [Node.js](https://nodejs.org/) v0.12
 
+###我的mongo大問題
+在執行安裝mongo安裝的步驟，到核實安裝是否成功的步驟時跑出
+![image](https://user-images.githubusercontent.com/117743957/205804991-b54f57c1-15b1-4313-bbb2-d12539be32f9.png)
+但是以上的地方都沒問題
+![image](https://user-images.githubusercontent.com/117743957/205805104-37e0b8df-6ae7-40a7-a8f9-f19ecea7ed60.png)
+![image](https://user-images.githubusercontent.com/117743957/205805157-f29107a7-c8d4-4982-abf6-fc5e46056742.png)
+於是我上網找mongo not found 的原因，這位老歌也跟我有一樣麻煩
+![image](https://user-images.githubusercontent.com/117743957/205805691-3a865773-72cd-4c7f-896d-9c809c03dba9.png)
+下面有人給出解決方法可是
+![image](https://user-images.githubusercontent.com/117743957/205806035-d84b8c74-08ee-4960-ab08-47246086c38f.png)
+還是老樣子
+![image](https://user-images.githubusercontent.com/117743957/205806153-47d1f165-2d31-4c38-9691-c2b718c5e5e1.png)
+
+
+
+
 Using [homebrew](http://brew.sh/), you can install MongoDB and other dependencies:
 (使用 [homebrew](http://brew.sh/)，您可以安裝 MongoDB 和其他依賴項目：)
 
